@@ -1,5 +1,5 @@
 {
-    "name": "pxt-random-pos",
+    "name": "pxt-random-per-seconds",
     "description": "",
     "dependencies": {
         "device": "*"
